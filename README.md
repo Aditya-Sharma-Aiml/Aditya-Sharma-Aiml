@@ -47,15 +47,7 @@ Passionate about coding and problem-solving, with strong foundations in Data Str
 ![](https://github-readme-stats.vercel.app/api?username=Aditya-Sharma-Aiml&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aditya-Sharma-Aiml&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Sharma-Aiml&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- new
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Sharma-Aiml&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Aditya-Sharma-Aiml&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Sharma-Aiml&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-<br/> -->
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Sharma-Aiml&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
+<br>
 
 ### Activity
 
