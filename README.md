@@ -1,3 +1,12 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7f5af0,50:a78bfa,100:c4b5fd&text=Aditya %20Sharma&fontAlign=50&fontAlignY=38&fontSize=60&desc=Software%20%20Engineer%20|%20Data%20Analyst%20|%20CPP%20DSA&descAlignY=62"/>
+
+<img src="https://komarev.com/ghpvc/?username=Aditya-Sharma-Aiml&label=Profile%20Views&color=7f5af0&style=for-the-badge"/>
+
+</div>
+
+---
 # Hi 👋, I'm Aditya Sharma
 <p align="center">
   <img 
@@ -87,6 +96,19 @@ Passionate about coding and problem-solving, with strong foundations in Data Str
 ### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🐍 Contribution Snake
 
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Aditya-Sharma-Aiml/Aditya-Sharma-Aiml/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,100:7f5af0&height=120&section=footer"/>
+
+</div>
 
 
