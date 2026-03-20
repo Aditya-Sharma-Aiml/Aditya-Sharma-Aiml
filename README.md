@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7f5af0,50:a78bfa,100:c4b5fd&text=Aditya %20Sharma&fontAlign=50&fontAlignY=38&fontSize=60&desc=Software%20%20Engineer%20|%20Data%20Analyst%20|%20CPP%20DSA&descAlignY=62"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineer;Building+AI+Projects;Full+Stack+Developer;Solving+DSA+Problems+in+CPP"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7f5af0,50:a78bfa,100:c4b5fd&text=Aditya%20Sharma&fontAlign=50&fontAlignY=38&fontSize=60&desc=Software%20Engineer%20|%20Data%20Analyst%20|%20Full%20Stack%20Developer%20&descAlignY=62"/>
+
 
 <img src="https://komarev.com/ghpvc/?username=Aditya-Sharma-Aiml&label=Profile%20Views&color=7f5af0&style=for-the-badge"/>
 
@@ -95,24 +95,14 @@ Passionate about coding and problem-solving, with strong foundations in Data Str
 </a>
 </p>
 
-<!--![](https://leetcard.jacoblin.cool/Aditya_sharma_Aiml?cache=0)-->
+
 
 ### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Aditya-Sharma-Aiml/Aditya-Sharma-Aiml/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,100:7f5af0&height=120&section=footer"/>
 
 </div>
-
 
