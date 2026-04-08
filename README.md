@@ -89,11 +89,11 @@ Passionate about coding and problem-solving, with strong foundations in Data Str
 
 ---
 ## 🏆 Competitive Programming Stats
-<p>
+ <p>
 <a href ="https://leetcode.com/u/Aditya_Sharma_Aiml/">
 <img height = "280em" src = "https://leetcard.jacoblin.cool/Aditya_Sharma_Aiml?theme=dark&font=PT%20Serif&ext=contest">
 </a>
-</p>
+</p> 
 
 
 
