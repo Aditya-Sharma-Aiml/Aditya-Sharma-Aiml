@@ -20,8 +20,18 @@
 </p>
 
 
-# 💫 About Me:
-Passionate about coding and problem-solving, with strong foundations in Data Structures, Algorithms, OOP, DBMS, OS, and Computer Networks. Skilled in C, C++, JavaScript, and Python. Pursuing Bachelor of Technology degree in Artificial Intelligence and Machine Learning at Noida Institute of Engineering and Technology (NIET), Class of 2027, exploring Machine Learning, and strengthening analytical skills through LeetCode practice for technical interviews.
+## 🧠 About Me  
+
+🎓 B.Tech in Artificial Intelligence & Machine Learning at NIET Greater Noida (Class of 2027)  
+🌍 Based in India  
+
+💡 Strong foundation in Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks & Automata Theory  
+🧑‍💻 Proficient in C++, Java, Python & JavaScript  
+
+🤖 Currently exploring Full-Stack Development and Machine Learning & Generative AI along with Data Science
+🏆 Actively solving DSA problems on LeetCode to strengthen problem-solving for technical interviews  
+
+⚡ Focused on writing clean, scalable code and building real-world impactful systems  
 
 
 ## 🌐 Socials:
